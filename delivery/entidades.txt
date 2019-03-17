@@ -1,0 +1,50 @@
+- País
+    nome
+
+- Estado
+    país
+    sigla
+    nome
+
+- Cidade
+    estado
+    nome
+
+- Endereço
+    cidade
+    logradouro
+    numero
+    complemento
+    latitude
+    longitude
+
+- Encomenda
+    local de entega
+    destinatário
+    data de cadastro
+    data de entrega
+
+- Status Encomenda
+    encomenda
+    data
+    status
+    descricao
+
+- Entrega:
+    data de inicio
+    pedidos
+
+-------------------------
+
+- Grupo
+    funcões disponíveis/urls
+
+- Usuário
+    grupo
+    email
+    senha
+    nome
+    endereco
+    telefone
+    email
+

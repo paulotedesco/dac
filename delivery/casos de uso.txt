@@ -1,0 +1,16 @@
+Entregador
+    1. Efetuar login no sistema
+    2. Listar encomendas
+    4. Obter encomenda para entrega
+    5. Entregar encomenda
+    6. Cancelar entrega de encomenda
+
+Gerente
+    1. Efetuar Login no Sistema
+    2. Listar encomendas
+    3. Cadastrar encomenda
+    6. Cancelar entrega de encomenda
+    7. Listar Usuário
+    8. Cadastrar Usuário
+    9. Alterar Usuário
+    10. Inativar Usuário
